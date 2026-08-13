@@ -1,0 +1,11 @@
+{
+  "name": "MedicineMate",
+  "description": "A prescription understanding and tracking assistant that helps you manage your family\u0027s medications safely.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
